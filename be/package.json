@@ -1,0 +1,14 @@
+{
+  "name": "schools-record-be",
+  "version": "1.0.0",
+  "description": "manages data for school activities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uncle excellence",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
